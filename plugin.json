@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Builds a stacked offer: every problem listed, a solution for each, low-value/high-cost trimmed, the rest named and stacked with honest enhancers.",
+  "keywords": [
+    "grand",
+    "kairos",
+    "offer",
+    "slam",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-grand-slam-offer",
+  "repository": "https://github.com/baselam88/kairos-grand-slam-offer-plugin",
+  "version": "0.1.0"
+}
